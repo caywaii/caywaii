@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caywaii&label=Profile%20views&color=0e75b6&style=flat" alt="caywaii" /> </p>
 
-- 🌱 I’m currently learning **Java, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, MySQL**
 
 - 📫 How to reach me **santiagocarylrociel@gmail.com**
 
